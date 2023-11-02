@@ -34,7 +34,7 @@ body::-webkit-scrollbar {
 .main{
     display: grid;
     position: relative;
-    top: 10rem;
+    top: 5rem;
 
 }
 .main__container{
