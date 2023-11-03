@@ -34,7 +34,7 @@ body::-webkit-scrollbar {
 .main{
     display: grid;
     position: relative;
-    top: 10rem;
+    margin-top: 6rem;
 
 }
 .main__container{
@@ -169,7 +169,7 @@ button:hover{
 }
 @media (max-width: 415px){
     .main{
-        top: -1rem;
+        margin-top: -1rem;
 
     }
     .main__container{
@@ -188,8 +188,8 @@ button:hover{
 }
 @media (min-width: 416px) and (max-width: 1267px){
     .main{
-        bottom: 10rem;
-        top: 6rem;
+        margin-bottom: 10rem;
+        margin-top: 6rem;
     }
     .main__container{
         width: 85%;
