@@ -186,12 +186,12 @@ button:hover{
 
     }
 }
-@media (min-width: 415px) and (max-width: 1267px){
+@media (min-width: 416px) and (max-width: 1267px){
     .main{
         bottom: 10rem;
         top: 6rem;
     }
     .main__container{
-        width: 80%;
+        width: 85%;
     }
 }
