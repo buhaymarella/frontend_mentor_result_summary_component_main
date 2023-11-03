@@ -21,6 +21,7 @@
 }
 body{
     background: var(--White);
+    height: 80vh;
 }
 body::-webkit-scrollbar {
     display: none;
